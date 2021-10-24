@@ -1,1 +1,6 @@
-.txt
+1. Choose the pizza you'd like to Order
+2. Decide to call in order or place order online
+3. Order pizza of your choice using your preferred
+method
+4. Pay online or over the phone depending on 
+your preferred method.

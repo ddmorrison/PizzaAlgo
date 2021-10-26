@@ -1,4 +1,5 @@
-1. Choose the pizza you'd like to Order
+1. Choose the pizza you'd like to order
+    1a. Pick the toppings 
 2. Decide to call in order or place order online
 3. Order pizza of your choice using your preferred
 method
